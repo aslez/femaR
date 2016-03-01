@@ -1,9 +1,14 @@
 Package: femaR
-Type: Package
-Title: What the package does (short line)
-Version: 1.0
-Date: 2016-02-29
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Date: 2016-03-01
+Title: femaR Executes My Analysis in R
+Version: 0.1
+Authors@R: person("Adam", "Slez", email = "aslez@virginia.edu",
+    role = c("aut", "cre"))
+Description: This package implements the field measures outlined in Martin,
+    Slez, and Borkenhagen (2016).
+Depends: R (>= 3.1.1)
+License: MIT + file LICENSE
+LazyData: true
+Imports: ggplot
+Author: Adam Slez [aut, cre]
+Maintainer: Adam Slez <aslez@virginia.edu>
