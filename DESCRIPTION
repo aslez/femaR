@@ -9,6 +9,6 @@ Description: This package implements the field measures outlined in Martin,
 Depends: R (>= 3.1.1)
 License: MIT + file LICENSE
 LazyData: true
-Imports: ggplot
+Imports: ggplot2
 Author: Adam Slez [aut, cre]
 Maintainer: Adam Slez <aslez@virginia.edu>
